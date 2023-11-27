@@ -1,4 +1,4 @@
-package com.dnsouzadev.greetingservice;
+package com.dnsouzadev.greetingservice.model;
 
 public class Greeting {
 

@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "greeting-service",
+      "type": "com.dnsouzadev.greetingservice.configuration.GreetingConfiguration",
+      "sourceType": "com.dnsouzadev.greetingservice.configuration.GreetingConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "greeting-service.default-value",
+      "type": "java.lang.String",
+      "sourceType": "com.dnsouzadev.greetingservice.configuration.GreetingConfiguration"
+    },
+    {
+      "name": "greeting-service.greeting",
+      "type": "java.lang.String",
+      "sourceType": "com.dnsouzadev.greetingservice.configuration.GreetingConfiguration"
+    }
+  ],
+  "hints": []
+}
