@@ -1,4 +1,4 @@
-/home/dnsouzadev/microservice/greeting-service/src/main/java/com/dnsouzadev/greetingservice/controllers/GreetingController.java
-/home/dnsouzadev/microservice/greeting-service/src/main/java/com/dnsouzadev/greetingservice/configuration/GreetingConfiguration.java
-/home/dnsouzadev/microservice/greeting-service/src/main/java/com/dnsouzadev/greetingservice/GreetingServiceApplication.java
-/home/dnsouzadev/microservice/greeting-service/src/main/java/com/dnsouzadev/greetingservice/model/Greeting.java
+/home/dnsouzadev/curso/microservice/greeting-service/src/main/java/com/dnsouzadev/greetingservice/GreetingServiceApplication.java
+/home/dnsouzadev/curso/microservice/greeting-service/src/main/java/com/dnsouzadev/greetingservice/model/Greeting.java
+/home/dnsouzadev/curso/microservice/greeting-service/src/main/java/com/dnsouzadev/greetingservice/controllers/GreetingController.java
+/home/dnsouzadev/curso/microservice/greeting-service/src/main/java/com/dnsouzadev/greetingservice/configuration/GreetingConfiguration.java

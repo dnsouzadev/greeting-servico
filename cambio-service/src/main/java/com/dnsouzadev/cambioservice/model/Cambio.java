@@ -1,8 +1,9 @@
-package main.java.com.dnsouzadev.cambioservice.model;
+package com.dnsouzadev.cambioservice.model;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Objects;
+
 
 public class Cambio implements Serializable {
     private static final long serialVersionUID = 1L;
@@ -17,7 +18,7 @@ public class Cambio implements Serializable {
     public Cambio() {
     }
 
-    public Cambio(Long id, String from, String to, BigDecimal conversionFactor, BigDecimal convertedValue, String environment) {
+    public Cambio(Long id, String from, String to, BigDecimal conversionFactor, BigDecimal convertedValue, BigDecimal amount, String environment) {
         this.id = id;
         this.from = from;
         this.to = to;
